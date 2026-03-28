@@ -27,6 +27,8 @@ else:
 
 
 
+
+
 # Ex 1:Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
@@ -68,6 +70,8 @@ print("d:", d)
 Thus the program was successfully executed and obtained the result.
 
 
+
+
 # Datatypes-Character Literal in Python
 
 ## 🎯 Aim
@@ -87,6 +91,8 @@ print('a')
 
 ## Result
 Thus the program was successfully executed and obtained the result.
+
+
 
 
 # 🧮 Datatypes-Complex Number Creation in Python
@@ -125,6 +131,9 @@ print("Imaginary part:", x.imag)
 ## Result
 Thus the program was successfully executed and obtained the result.
 
+
+
+
 # Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
@@ -146,5 +155,3 @@ print(men_stepped_on_the_moon)
 Thus the program was successfully executed and obtained the result.
 
 
-## Result
-Thus the program was successfully executed and obtained the result.
